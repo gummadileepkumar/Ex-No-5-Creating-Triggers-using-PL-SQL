@@ -38,10 +38,16 @@ end;
  ```
 
 ## Output:
-![image](https://github.com/Priya-Loganathan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121166075/86467a50-bd8b-4082-9609-fea1310833ad)
-![image](https://github.com/Priya-Loganathan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121166075/adfa1ca7-fcc3-468d-9a9b-c416495aeb88)
-![image](https://github.com/Priya-Loganathan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121166075/869c73ee-79b9-4c8d-aab1-cabf9da8c469)
-![image](https://github.com/Priya-Loganathan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121166075/7a2d9d66-40e4-456b-a97a-60644376c07c)
+
+![dbms_5 1](https://github.com/gummadileepkumar/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707761/f6d4be8b-c22f-470d-9c3c-0c9e3061a29b)
+![dbms_5 2](https://github.com/gummadileepkumar/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707761/6e61903f-4e03-417a-9385-fa58f12deeb2)
+
+![dbms_5 3](https://github.com/gummadileepkumar/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707761/92829da5-9d46-44f1-950c-b954e5082b63)
+
+![dbms_5 4](https://github.com/gummadileepkumar/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707761/f81eef8b-b4d2-40b4-8824-00c6698ba14d)
+
+
+
 
 ## Result:
 Thus, a trigger is created using PL/SQL.
